@@ -1,5 +1,8 @@
 # notfy_notification
 
+Demo: https://pr4n4vs.github.io/notfy_notification/
+
+
 // Create an instance of Notyf
 
 var notyf = new Notyf();
